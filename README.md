@@ -25,7 +25,7 @@ Aplikasi manajemen inventaris pakaian pengantin, jadwal sewa, dan virtual fittin
 ## 🛠️ Stack Teknologi
 - **Framework**: [Flutter](https://flutter.dev/) (Dart) - Kompatibel untuk Web, Android, & iOS.
 - **Database**: [Firebase Realtime Database](https://firebase.google.com/) terintegrasi via REST API (untuk stabilitas performa lintas platform instan).
-- **Penyimpanan Media**: [Cloudinary](https://cloudinary.com/) (Cloud Name: `dkvtfgqne`).
+- **Penyimpanan Media**: [Cloudinary](https://cloudinary.com/).
 - **Penyedia Script 3D**: [model_viewer_plus](https://pub.dev/packages/model_viewer_plus) dengan integrasi pustaka Google `<model-viewer>` v3.4.0.
 - **State Management**: [Provider](https://pub.dev/packages/provider) (Arsitektur MVVM).
 
